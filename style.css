@@ -1,0 +1,37 @@
+.container{
+        background-image: url(\Downloads\PizzaPlanet\banner.png); /* Insere a imagem */
+        width: 150px;/* Faz a largura ficar igual a da largura da imagem de exemplo */
+        height: 150px;/* Faz a altura ficar igual a da altura da imagem de exemplo */
+        margin-top: 15px;
+        
+}
+
+.columns {
+    display: flex;
+    flex: 1;
+    background-color: black;
+    justify-content: space-around;
+}
+
+.columns img{
+    border-radius: 25px;
+}
+
+body{
+    background-color: #b23a48;
+}
+
+.logo{
+    color:aliceblue
+}
+
+.level {
+    background-color: #370617;
+}
+
+.container {
+    display: flex;
+    margin-left: 620px;
+    
+}
+
