@@ -1,1 +1,1 @@
-<img src pizza.png>;
+<img src pizza.png>
